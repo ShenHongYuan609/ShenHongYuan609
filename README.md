@@ -8,7 +8,7 @@
 Name:          沈泓源 (ShenHongYuan)                MBTI:             INTJ
 Date of Birth: June 9, 2005                        Day Master:       Jia Wood (甲木)
 Gender:        Male                                Zodiac Sign:      Gemini
-Email:         13716328870@163.com                 Place of Origin:  Haidian District, Beijing
+Email:         13716328870@163.com                 Place of Origin:  Haidian , Beijing
 </pre>
 
 **Interests & Hobbies:** Argentina Men's National Football Team Fan · Beijing Guoan F.C. Fan · Ancient Architecture Enthusiast · Wuxia Novel Fan
@@ -25,13 +25,13 @@ Email:         13716328870@163.com                 Place of Origin:  Haidian Dis
 
 **LLM Post-Training:** SFT · LoRA · QLoRA · Fine-Tuning · DPO · PPO · GRPO · RLHF · RLAIF · TRL · DeepSpeed · Distributed Training  
 
-**LLM Inference & Serving:** vLLM · Hugging Face · Model Quantization · KV Cache · Continuous Batching · OpenAI-Compatible API · FastAPI  
+**LLM Inference & Serving:** vLLM · Hugging Face · Model Quantization · KV Cache · Continuous Batching · FastAPI  
 
-**Agent & LLM Applications:** RAG · Agent · LangChain · LangGraph · LlamaIndex · Function Calling · Tool Calling · MCP · Prompt Engineering
+**Agent & LLM Applications:** RAG · Agent · LangChain · LangGraph · Function Calling · Tool Calling · MCP · Prompt Engineering
 
 **Java Backend Development:** Java SE · Spring Boot · Spring MVC · MyBatis · MyBatis-Plus · Maven · MySQL · Redis ·  Web Development  
 
-**Development & Infrastructure:** Linux · Git · GitHub · Docker · Conda · CUDA · REST API · HTTP · JSON · YAML · VS Code · PyCharm
+**Development & Infrastructure:** Linux · Git · GitHub · Docker · Conda · VS Code · PyCharm
 
 ---
 
