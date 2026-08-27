@@ -1,117 +1,108 @@
-<div align="center">
+# Hongyuan Shen
 
-# 沈泓源 | Hongyuan Shen
+## 👤 Basic Information
 
-**北京科技大学 · 物联网工程（卓越计划）**
+<img align="right" src="./assets/profile.jpg" width="185" alt="Hongyuan Shen">
 
-📧 [13716328870@163.com](mailto:13716328870@163.com)
+<pre>
+Name:          沈泓源 (ShenHongYuan)                MBTI:             INTJ
+Date of Birth: June 9, 2005                        Day Master:       Jia Wood (甲木)
+Gender:        Male                                Zodiac Sign:      Gemini
+Email:         13716328870@163.com                 Place of Origin:  Haidian District, Beijing
+</pre>
 
-</div>
+**Interests & Hobbies:** Argentina Men's National Football Team Fan · Beijing Guoan F.C. Fan · Ancient Architecture Enthusiast · Wuxia Novel Fan
 
----
-
-## 👤 个人简介
-
-北京科技大学物联网工程（卓越计划）本科生，关注 **多模态大模型、RAG、计算机视觉、SAR 图像处理与智能系统** 等方向。具备科研项目、论文投稿与大模型系统开发经历，希望持续积累算法研究与工程实践能力。
-
----
-
-## 🎓 教育背景
-
-### 北京科技大学
-
-**物联网工程（卓越计划）**
-2023.09 – 至今
-
-* 专业成绩：**87.3**
-* 专业排名：**第 1**
-* GPA：**3.6 / 4.0**
-* 英语成绩：**CET-6 588 / CET-4 683**
-
-### 中国人民大学附属中学（本部）
-
-**2023 届 21 班**
-2020.09 – 2023.07
+<br clear="right"/>
 
 ---
 
-## 🔬 科研经历
+## 💻 Technical Stack
 
-### 1. UniAffect: A Training-Free Hierarchical Task-Tree Reasoning Framework for Generalized Multimodal Sentiment Analysis
+**Programming Languages:** Python · C++ · Java · SQL · Shell · Markdown  
 
-**共同第一作者 · EMNLP 在投**
+**Deep Learning & LLM:** PyTorch · Hugging Face Transformers ·  Transformer · PEFT · Accelerate · Model Evaluation · Prompt Engineering  
 
-合作：浙江大学软件学院侯炳旭硕士
+**LLM Post-Training:** SFT · LoRA · QLoRA · Fine-Tuning · DPO · PPO · GRPO · RLHF · RLAIF · TRL · DeepSpeed · Distributed Training  
 
-* 面向情感、讽刺、幽默、仇恨、立场和视觉隐喻等广义多模态情感分析任务，聚焦多模态大模型跨任务推理中的 **视觉线索稀释、任务耦合与路径误判** 问题。
-* 设计 **VFR、HTR、CPBC** 三个核心模块以解决上述问题。
-* 针对广义多模态情感分析任务标签空间不统一、平铺式提示难以复用的问题，提出 **任务已知 + 标签闭集** 的统一推理设定。
-* 将六类任务组织为“**根节点 → 宏观任务 → 具体任务 → 叶子标签**”的四层任务树。
-* 构建包含 **19,034 个图文样本** 的统一数据集，用于闭集评测。
-* 负责视觉焦点提纯、任务树推理和置信度回溯校准模块的实验设计，并完成多骨干模型对比与模块消融实验。
-* 在 **LLaVA-7B** 和 **Qwen2.5-VL-7B** 上，相比最强 training-free 基线分别平均提升 **Macro-F1 +2.71** 和 **+2.04**。
-* 以共同第一作者身份完成论文投稿，目前处于 ARR 2026 年 5 月周期评审阶段，后续拟投稿至 **EMNLP 2026**。
+**LLM Inference & Serving:** vLLM · Hugging Face · Model Quantization · KV Cache · Continuous Batching · OpenAI-Compatible API · FastAPI  
 
----
+**Agent & LLM Applications:** RAG · Agent · LangChain · LangGraph · LlamaIndex · Function Calling · Tool Calling · MCP · Prompt Engineering
 
-### 2. AutoSAR-Diff: Automated Sentinel-1 SAR Dataset Pipeline for Diffusion-Prior Restoration
+**Java Backend Development:** Java SE · Spring Boot · Spring MVC · MyBatis · MyBatis-Plus · Maven · MySQL · Redis ·  Web Development  
 
-**第一作者 · 在研**
-
-指导教师：黄天耀老师，北京科技大学计算机与通信工程学院
-目标期刊：**Remote Sensing**
-
-* 面向 SAR 图像复原 / 超分任务中 **高质量复数数据不足、数据获取流程复杂、扩散模型先验学习困难** 等问题，提出自动化 Sentinel-1 SLC 数据集构建流程。
-* 使用自建数据集训练扩散模型，为图像复原任务提供数据驱动的扩散先验。
-* 围绕优化形式：
-
-$$
-\min_x \|y-\Phi x\|_2^2 + f(x)
-$$
-
-将扩散模型作为先验项 \(f(x)\) 的学习方式。
-
-* 主导自建数据集按地物特征划分为 **14 类**，使扩散模型能够分别学习不同地物结构与纹理先验。
-* 设计与 **BigEarthNet-MM、SEN12MS** 等数据集的同模型、同规模对比实验，以验证扩散先验学习的有效性。
-* 已完成从 Sentinel-1 SLC 原始数据到训练样本生成的完整闭环。
-* 当前共生成 **24,948 张复数 TIFF** 与对应 PNG 预览图。
-* 正在推进模型训练、baseline 对比实验与 Remote Sensing 论文撰写。
+**Development & Infrastructure:** Linux · Git · GitHub · Docker · Conda · CUDA · REST API · HTTP · JSON · YAML · VS Code · PyCharm
 
 ---
 
-## 💼 实习经历
+## 🎓 Education
 
-### 中国科学院软件研究所
+**2011 – 2017** &emsp; Beijing Jianhua Experimental School — Primary School  
 
-**AI 大模型科研实习生**
-2026.03 – 2026.06
+**2017 – 2020** &emsp; Beijing Yuyuantan Middle School — Junior High School  
 
-所在实验室：**智能博弈重点实验室**
-项目：**行业投研文档 PageLink-RAG 系统**
+**2020 – 2023** &emsp; The High School Affiliated to Renmin University of China — High School  
 
-* 面向行业投研长文档、跨页表格和图像资产，参与构建 **页面级多模态 RAG 系统**。
-* 完成文档标准化以及 PDF / PPTX / DOCX 文本抽取。
-* 完成 Excel 表格 OCR 转 Markdown 与语义关键词补全。
-* 实现 **Chunk / Page / Table / Doc 四层向量索引**。
-* 构建 **BM25 + 向量混合检索、页面级聚合与 Rerank** 流程。
-* 构建 `relations_chunk_asset` 图文关系表，提升检索结果的上下文完整性与图表对齐稳定性。
+**2023 – 2027** &emsp; University of Science and Technology Beijing (USTB) — School of Advanced Engineering — Internet of Things Engineering  
 
----
+**Advisor:** Prof. **Tianyao Huang** — Professor & Ph.D. Supervisor, School of Computer and Communication Engineering, University of Science and Technology Beijing (USTB)  
 
-## 🏆 荣誉证书
+**2027 – Present** &emsp; Beijing University of Posts and Telecommunications (BUPT) — School of Computer Science (National Demonstration Software School) — Academic Master's Program  
 
-* 全国大学生英语竞赛 **国家级二等奖**
-* 全国大学生数学建模竞赛 **北京市二等奖**
-* 蓝桥杯 Python 程序设计大学 A 组 **北京市三等奖**
-* 北京市大学生数学竞赛 **二等奖**
+**Advisor:** Dr. **Huanhuan Zhang** — Special Research Fellow & Ph.D. Supervisor, School of Computer Science (National Demonstration Software School), Beijing University of Posts and Telecommunications (BUPT)  
 
 ---
 
-## 📫 联系方式
+## 🔬 Research Experience
 
-* Email: **[13716328870@163.com](mailto:13716328870@163.com)**
-* GitHub: **ShenHongYuan609**
+### UniAffect: A Training-Free Hierarchical Task-Tree Reasoning Framework for Generalized Multimodal Sentiment Analysis
+
+**Role:** Co-First Author  
+**Status:** Submitted to EMNLP 2026 · Rejected · Currently Under Revision
+
+- Focuses on **Generalized Multimodal Sentiment Analysis (G-MSA)** across six tasks: sentiment, sarcasm, humor, hate speech, stance, and visual metaphor.
+- Addresses challenges including **visual cue dilution, task entanglement, and incorrect reasoning paths** in multimodal large language models.
+- Designs three major components, **VFR, HTR, and CPBC**, for visual focus refinement, hierarchical task reasoning, and confidence-based path backtracking calibration.
+- Organizes the six tasks into a four-level hierarchical task tree: **Root Node → Macro Task → Specific Task → Leaf Label**.
+- Constructs a unified benchmark containing **19,034 image-text samples**.
+- Achieves average **Macro-F1 improvements of +2.71 and +2.04** over the strongest training-free baseline on **LLaVA-7B** and **Qwen2.5-VL-7B**, respectively.
+- The paper was submitted to **EMNLP 2026**, was rejected, and is currently being revised.
 
 ---
 
-> Last updated: 2026
+## 💼 Internship Experience
+
+### Institute of Software, Chinese Academy of Sciences (ISCAS)
+
+**Position:** LLM Application Development Intern  
+**Period:** Mar. 2026 – Jul. 2026  
+
+**Project:** PageLink-RAG System for Industry Research Documents
+
+- Participated in the development of a **page-level multimodal RAG system** for long-form industry research documents.
+- Worked on document standardization and text extraction from **PDF, PPTX, and DOCX** files.
+- Processed cross-page tables and image assets in complex industry research documents.
+- Implemented a four-level retrieval architecture covering **Chunk / Page / Table / Document**.
+- Built a hybrid retrieval pipeline combining **BM25 and dense vector retrieval**.
+- Implemented page-level aggregation and reranking to improve retrieval quality.
+- Constructed text-image relationships to improve contextual completeness and alignment between retrieved text and visual assets.
+
+---
+
+## 🔍 Research Interests
+
+**AI for Network** — Applying artificial intelligence, machine learning, and large language models to network optimization, traffic analysis, anomaly detection, resource scheduling, intelligent network management, and autonomous network operation.  
+
+**LLM Post-Training** — Exploring supervised fine-tuning, parameter-efficient fine-tuning, preference optimization, reinforcement learning, reasoning alignment, domain adaptation, model evaluation, inference, and serving for large language models.  
+
+**Diffusion Model** — Studying diffusion-based generative models and learned priors for image restoration, super-resolution, inverse problems, representation learning, and multimodal generation.  
+
+---
+
+## 🎯 Career Interests
+
+**LLM / Agent Application Development Engineer** — Building production-oriented LLM applications, RAG systems, intelligent agents, tool-calling workflows, knowledge retrieval pipelines, and enterprise AI application platforms.  
+
+**LLM Post-Training Algorithm Engineer** — Working on SFT, PEFT, preference optimization, RLHF/RLAIF, reinforcement learning, reasoning capability enhancement, domain adaptation, evaluation, and post-training infrastructure for large language models.  
+
+**Backend Development Engineer** — Developing scalable backend services with Java and Spring Boot, including RESTful APIs, databases, caching, distributed service components, and backend infrastructure for AI applications.  
