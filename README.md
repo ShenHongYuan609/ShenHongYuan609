@@ -19,9 +19,9 @@ Email:         13716328870@163.com                 Place of Origin:  Haidian , B
 
 ## 💻 Technical Stack
 
-**Programming Languages:** Python · C++ · Java · SQL · Shell · Markdown  
+**Programming Languages:** Python · C++ · Java · SQL · Markdown  
 
-**Deep Learning & LLM:** PyTorch · Hugging Face Transformers ·  Transformer · PEFT · Accelerate · Model Evaluation · Prompt Engineering  
+**Deep Learning & LLM:** PyTorch · Hugging Face ·  Transformer · PEFT · Accelerate · Model Evaluation · Prompt Engineering  
 
 **LLM Post-Training:** SFT · LoRA · QLoRA · Fine-Tuning · DPO · PPO · GRPO · RLHF · RLAIF · TRL · DeepSpeed · Distributed Training  
 
@@ -46,10 +46,6 @@ Email:         13716328870@163.com                 Place of Origin:  Haidian , B
 **2023 – 2027** &emsp; University of Science and Technology Beijing (USTB) — School of Advanced Engineering — Internet of Things Engineering  
 
 **Advisor:** Prof. **Tianyao Huang** — Professor & Ph.D. Supervisor, School of Computer and Communication Engineering, University of Science and Technology Beijing (USTB)  
-
-**2027 – Present** &emsp; Beijing University of Posts and Telecommunications (BUPT) — School of Computer Science (National Demonstration Software School) — Academic Master's Program  
-
-**Advisor:** Dr. **Huanhuan Zhang** — Special Research Fellow & Ph.D. Supervisor, School of Computer Science (National Demonstration Software School), Beijing University of Posts and Telecommunications (BUPT)  
 
 ---
 
