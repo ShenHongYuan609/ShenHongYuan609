@@ -8,7 +8,7 @@
 Name:          沈泓源 (ShenHongYuan)                MBTI:             INTJ
 Date of Birth: June 9, 2005                        Day Master:       Jia Wood (甲木)
 Gender:        Male                                Zodiac Sign:      Gemini
-Email:         13716328870@163.com                 Place of Origin:  Haidian , Beijing
+Email:         tanjirojfd688yr@gmail.com           Place of Origin:  Haidian , Beijing
 </pre>
 
 **Interests & Hobbies:** Argentina Men's National Football Team Fan · Beijing Guoan F.C. Fan · Ancient Architecture Enthusiast · Wuxia Novel Fan
