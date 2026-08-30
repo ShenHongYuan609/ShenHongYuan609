@@ -29,7 +29,7 @@ Email:         tanjirojfd688yr@gmail.com           Place of Origin:  Haidian , B
 
 **Agent & LLM Applications:** RAG · Agent · LangChain · LangGraph · Function Calling · Tool Calling · MCP · Prompt Engineering
 
-**Java Backend Development:** Java SE · Spring Boot · Spring MVC · MyBatis · MyBatis-Plus · Maven · MySQL · Redis ·  Web Development  
+**Java Backend Development:** Java SE · Spring Boot · Spring MVC · MyBatis · Maven · MySQL · Redis ·  Web Development  
 
 **Development & Infrastructure:** Linux · Git · GitHub · Docker · Conda · VS Code · PyCharm
 
@@ -45,7 +45,7 @@ Email:         tanjirojfd688yr@gmail.com           Place of Origin:  Haidian , B
 
 **2023 – 2027** &emsp; University of Science and Technology Beijing (USTB) — School of Advanced Engineering — Internet of Things Engineering  
 
-**Advisor:** Prof. **Tianyao Huang** — Professor & Ph.D. Supervisor, School of Computer and Communication Engineering, University of Science and Technology Beijing (USTB)  
+**Advisor:** Prof. **Tianyao Huang** — Professor & Ph.D. Supervisor, School of Computer and Communication Engineering
 
 ---
 
