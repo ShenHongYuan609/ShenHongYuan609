@@ -43,9 +43,11 @@ Email:         tanjirojfd688yr@gmail.com           Place of Origin:  Haidian , B
 
 **2020 – 2023** &emsp; The High School Affiliated to Renmin University of China — High School  
 
-**2023 – 2027** &emsp; University of Science and Technology Beijing (USTB) — School of Advanced Engineering — Internet of Things Engineering  
-
+**2023 – 2027** &emsp; University of Science and Technology Beijing (USTB) — School of Advanced Engineering — Internet of Things Engineering 
 **Advisor:** Prof. **Tianyao Huang** — Professor & Ph.D. Supervisor, School of Computer and Communication Engineering
+
+**2027 - 2030** &emsp; Beijing University of Post and Telecommunication (BUPT) - School of Computer - Computer Science and Technology
+**Advisor:** Prof. **Huanhuan Zhang** — Ph.D. Supervisor, School of Computer 
 
 ---
 
