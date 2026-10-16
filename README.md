@@ -47,7 +47,7 @@ Email:         tanjirojfd688yr@gmail.com           Place of Origin:  Haidian , B
 **Advisor:** Prof. **Tianyao Huang** — Professor & Ph.D. Supervisor, School of Computer and Communication Engineering
 
 **2027 - 2030** &emsp; Beijing University of Post and Telecommunication (BUPT) - School of Computer - Computer Science and Technology
-**Advisor:** Prof. **Huanhuan Zhang** — Ph.D. Supervisor, School of Computer 
+**Advisor:** Distinguished Research Fellow **Huanhuan Zhang** — Ph.D. Supervisor, School of Computer 
 
 ---
 
