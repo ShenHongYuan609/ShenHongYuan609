@@ -1,77 +1,103 @@
-# Hongyuan Shen
+# 沈泓源｜Hongyuan Shen
 
-## 👤 Basic Information
+<img align="right" src="./assets/profile.jpg" width="180" alt="沈泓源个人照片">
 
-<img align="right" src="./assets/profile.jpg" width="185" alt="Hongyuan Shen">
+北京科技大学计算机与通信工程学院本科生  
+已保研至北京邮电大学计算机学院  
+研究方向：AI for Networks、AIOps、智能网络运维
 
-<pre>
-Name:          沈泓源 (ShenHongYuan)                MBTI:             ENTJ
-Date of Birth: 6,9,2005                        星座:      双子座(Gemini)
-Place: 北京海淀
-</pre>
+- **姓名：** 沈泓源
+- **出生日期：** 2005 年 6 月 9 日
+- **所在地：** 北京市海淀区
+- **MBTI：** ENTJ
+- **星座：** 双子座
 
-**Interests & Hobbies:** 
-⚽️阿根廷国家男子足球队（Lionel Messi的骨灰级粉丝）& ⚽️北京国安足球俱乐部（Beijing FC fans）& 📹佳能资深人像摄影(Photographer)
+**兴趣爱好**
+
+⚽ 阿根廷国家男子足球队与 Lionel Messi 的忠实球迷  
+🟢 北京国安足球俱乐部球迷  
+📷 佳能相机用户，喜欢人像摄影
 
 <br clear="right"/>
 
 ---
 
-## 🎓 Education
+## 🎓 教育经历
 
-**2011 – 2017** &emsp; 北京建华实验学校
-**2017 – 2020** &emsp; 北京市玉渊潭中学
-**2020 – 2023** &emsp; 中国人民大学附属中学
-**2023 – 2027** &emsp; 北京科技大学 计算机与通信工程学院 导师：黄天耀教授
-**2027 - 2030** &emsp; 北京邮电大学 计算机学院 导师：张欢欢研究员
-
----
-
-## 🔬 Research Experience
-
-### UniAffect: A Training-Free Hierarchical Task-Tree Reasoning Framework for Generalized Multimodal Sentiment Analysis
-
-**Role:** Co-First Author  
-**Status:** Submitted to EMNLP 2026 · Rejected · Currently Under Revision
-
-- Focuses on **Generalized Multimodal Sentiment Analysis (G-MSA)** across six tasks: sentiment, sarcasm, humor, hate speech, stance, and visual metaphor.
-- Addresses challenges including **visual cue dilution, task entanglement, and incorrect reasoning paths** in multimodal large language models.
-- Designs three major components, **VFR, HTR, and CPBC**, for visual focus refinement, hierarchical task reasoning, and confidence-based path backtracking calibration.
-- Organizes the six tasks into a four-level hierarchical task tree: **Root Node → Macro Task → Specific Task → Leaf Label**.
-- Constructs a unified benchmark containing **19,034 image-text samples**.
-- Achieves average **Macro-F1 improvements of +2.71 and +2.04** over the strongest training-free baseline on **LLaVA-7B** and **Qwen2.5-VL-7B**, respectively.
-- The paper was submitted to **WWW 2027** now.
+| 时间 | 学校及经历 |
+| --- | --- |
+| 2011.09 – 2017.06 | 北京建华实验学校 |
+| 2017.09 – 2020.06 | 北京市玉渊潭中学 |
+| 2020.09 – 2023.06 | 中国人民大学附属中学 |
+| 2023.09 – 2027.06 | 北京科技大学 · 计算机与通信工程学院 · 导师：黄天耀教授 |
+| 2027.09 – 2030.06 | 北京邮电大学 · 计算机学院 · 导师：张欢欢研究员 |
 
 ---
 
-## 💼 Internship Experience
+## 🔬 科研经历
 
-### Institute of Software, Chinese Academy of Sciences (ISCAS)
+### UniAffect：面向广义多模态情感分析的免训练层次化任务树推理框架
 
-**Position:** LLM Application Development Intern  
-**Period:** Mar. 2026 – Jul. 2026  
+**角色：** 共同第一作者  
+**状态：** 曾投稿 EMNLP 2026，修改后现已投稿 WWW 2027
 
-**Project:** PageLink-RAG System for Industry Research Documents
-
-- Participated in the development of a **page-level multimodal RAG system** for long-form industry research documents.
-- Worked on document standardization and text extraction from **PDF, PPTX, and DOCX** files.
-- Processed cross-page tables and image assets in complex industry research documents.
-- Implemented a four-level retrieval architecture covering **Chunk / Page / Table / Document**.
-- Built a hybrid retrieval pipeline combining **BM25 and dense vector retrieval**.
-- Implemented page-level aggregation and reranking to improve retrieval quality.
-- Constructed text-image relationships to improve contextual completeness and alignment between retrieved text and visual assets.
+- **背景（Situation）：** 现有多模态大模型在统一处理情感、讽刺、幽默、仇恨言论、立场和视觉隐喻任务时，存在视觉线索稀释、任务相互干扰以及推理路径错误等问题。
+- **目标（Task）：** 设计一种无需额外训练的统一推理框架，使多模态大模型能够在同一体系下完成六类广义多模态情感分析任务。
+- **行动（Action）：** 设计视觉聚焦优化（VFR）、层次化任务推理（HTR）和基于置信度的路径回溯校准（CPBC）三个模块，并构建包含 19,034 个图文样本的统一评测基准。
+- **结果（Result）：** 在 LLaVA-7B 和 Qwen2.5-VL-7B 上，相较最强免训练基线，平均 Macro-F1 分别提升 **2.71** 和 **2.04** 个百分点。
 
 ---
 
-## 🔍 Research Interests
+## 💼 实习经历
 
-**AI for Network** — Applying artificial intelligence, machine learning, and large language models to network optimization, traffic analysis, anomaly detection, resource scheduling, intelligent network management, and autonomous network operation.  
+### 中国科学院软件研究所
 
-**AIops**  
+**岗位：** 大模型应用开发实习生  
+**时间：** 2026.03 – 2026.07  
+**项目：** [PageLinked-RAG：面向行业研究文档的页级多模态检索增强生成系统](https://github.com/ShenHongYuan609/PageLinked-RAG)
+
+- **背景（Situation）：** 行业研究文档通常篇幅较长，并包含跨页表格、图片及复杂版式，传统文本切块方法容易破坏页面结构和上下文关联。
+- **目标（Task）：** 参与构建面向 PDF、PPTX 和 DOCX 文档的页级多模态 RAG 系统，提高复杂长文档的检索完整性与图文关联能力。
+- **行动（Action）：** 完成文档标准化、文本与图片提取、跨页表格处理及图文关系构建，并实现 Chunk、Page、Table、Document 四级检索架构。
+- **结果（Result）：** 构建融合 BM25、向量检索、页级聚合与重排序的混合检索流程，改善了检索结果的上下文完整性及图文对齐效果。
 
 ---
 
-## 🎯 Career Interests
+## 🔍 研究兴趣
 
-**SRE/AI infra Ops**
-**音视频开发工程师**
+### AI for Networks
+
+将人工智能、机器学习和大语言模型应用于：
+
+- 网络优化与流量分析
+- 网络异常检测
+- 网络资源调度
+- 智能网络管理
+- 自治网络运维
+
+### AIOps
+
+关注人工智能在 IT 运维领域的应用，包括：
+
+- 智能监控与告警分析
+- 故障检测、定位与根因分析
+- 运维自动化
+- 系统可观测性
+- AI 基础设施与 GPU 集群运维
+
+---
+
+## 🎯 职业方向
+
+- **SRE / 站点可靠性工程**
+- **AI Infrastructure / AI 基础设施运维**
+- **AIOps / 智能运维**
+- **音视频与实时通信开发**
+
+---
+
+## 📫 联系方式
+
+- **GitHub：** [ShenHongYuan609](https://github.com/ShenHongYuan609)
+- **个人主页：** 待补充
+- **邮箱：** 待补充
