@@ -31,21 +31,16 @@
 
 ## 🎓 Education
 
-**2011 – 2017**  
-Beijing Jianhua Experimental School
+**2011 – 2017**  Beijing Jianhua Experimental School
 
-**2017 – 2020**  
-Beijing Yuetan Middle School
+**2017 – 2020**  Beijing Yuetan Middle School
 
-**2020 – 2023**  
-The High School Affiliated to Renmin University of China
+**2020 – 2023**  The High School Affiliated to Renmin University of China
 
-**2023 – 2027**  
-School of Computer and Communication Engineering, University of Science and Technology Beijing  
+**2023 – 2027**  School of Computer and Communication Engineering, University of Science and Technology Beijing  
 Supervisor: Prof. Tianyao Huang
 
-**2027 – 2030**  
-School of Computer Science, Beijing University of Posts and Telecommunications  
+**2027 – 2030**  School of Computer Science, Beijing University of Posts and Telecommunications  
 Supervisor: Dr. Huanhuan Zhang
 
 ---
