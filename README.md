@@ -5,49 +5,25 @@
 <img align="right" src="./assets/profile.jpg" width="185" alt="Hongyuan Shen">
 
 <pre>
-Name:          沈泓源 (ShenHongYuan)                MBTI:             INTJ
-Date of Birth: June 9, 2005                        Day Master:       Jia Wood (甲木)
-Gender:        Male                                Zodiac Sign:      Gemini
-Email:         tanjirojfd688yr@gmail.com           Place of Origin:  Haidian , Beijing
+Name:          沈泓源 (ShenHongYuan)                MBTI:             ENTJ
+Date of Birth: 6,9,2005                        星座:      双子座(Gemini)
+Place: 北京海淀
 </pre>
 
-**Interests & Hobbies:** Argentina Men's National Football Team Fan · Beijing Guoan F.C. Fan · Ancient Architecture Enthusiast · Wuxia Novel Fan
+**Interests & Hobbies:** 
+⚽️阿根廷国家男子足球队（Lionel Messi的骨灰级粉丝）& ⚽️北京国安足球俱乐部（Beijing FC fans）& 📹佳能资深人像摄影(Photographer)
 
 <br clear="right"/>
 
 ---
 
-## 💻 Technical Stack
-
-**Programming Languages:** Python · C++ · Java · SQL · Markdown  
-
-**Deep Learning & LLM:** PyTorch · Hugging Face ·  Transformer · PEFT · Accelerate · Model Evaluation · Prompt Engineering  
-
-**LLM Post-Training:** SFT · LoRA · QLoRA · Fine-Tuning · DPO · PPO · GRPO · RLHF · RLAIF · TRL · DeepSpeed · Distributed Training  
-
-**LLM Inference & Serving:** vLLM · Hugging Face · Model Quantization · KV Cache · Continuous Batching · FastAPI  
-
-**Agent & LLM Applications:** RAG · Agent · LangChain · LangGraph · Function Calling · Tool Calling · MCP · Prompt Engineering
-
-**Java Backend Development:** Java SE · Spring Boot · Spring MVC · MyBatis · Maven · MySQL · Redis ·  Web Development  
-
-**Development & Infrastructure:** Linux · Git · GitHub · Docker · Conda · VS Code · PyCharm
-
----
-
 ## 🎓 Education
 
-**2011 – 2017** &emsp; Beijing Jianhua Experimental School — Primary School  
-
-**2017 – 2020** &emsp; Beijing Yuyuantan Middle School — Junior High School  
-
-**2020 – 2023** &emsp; The High School Affiliated to Renmin University of China — High School  
-
-**2023 – 2027** &emsp; University of Science and Technology Beijing (USTB) — School of Advanced Engineering — Internet of Things Engineering 
-**Advisor:** Prof. **Tianyao Huang** — Professor & Ph.D. Supervisor, School of Computer and Communication Engineering
-
-**2027 - 2030** &emsp; Beijing University of Post and Telecommunication (BUPT) - School of Computer - Computer Science and Technology
-**Advisor:** Distinguished Research Fellow **Huanhuan Zhang** — Ph.D. Supervisor, School of Computer 
+**2011 – 2017** &emsp; 北京建华实验学校
+**2017 – 2020** &emsp; 北京市玉渊潭中学
+**2020 – 2023** &emsp; 中国人民大学附属中学
+**2023 – 2027** &emsp; 北京科技大学 计算机与通信工程学院 导师：黄天耀教授
+**2027 - 2030** &emsp; 北京邮电大学 计算机学院 导师：张欢欢研究员
 
 ---
 
@@ -64,7 +40,7 @@ Email:         tanjirojfd688yr@gmail.com           Place of Origin:  Haidian , B
 - Organizes the six tasks into a four-level hierarchical task tree: **Root Node → Macro Task → Specific Task → Leaf Label**.
 - Constructs a unified benchmark containing **19,034 image-text samples**.
 - Achieves average **Macro-F1 improvements of +2.71 and +2.04** over the strongest training-free baseline on **LLaVA-7B** and **Qwen2.5-VL-7B**, respectively.
-- The paper was submitted to **EMNLP 2026**, was rejected, and is currently being revised.
+- The paper was submitted to **WWW 2027** now.
 
 ---
 
@@ -91,16 +67,11 @@ Email:         tanjirojfd688yr@gmail.com           Place of Origin:  Haidian , B
 
 **AI for Network** — Applying artificial intelligence, machine learning, and large language models to network optimization, traffic analysis, anomaly detection, resource scheduling, intelligent network management, and autonomous network operation.  
 
-**LLM Post-Training** — Exploring supervised fine-tuning, parameter-efficient fine-tuning, preference optimization, reinforcement learning, reasoning alignment, domain adaptation, model evaluation, inference, and serving for large language models.  
-
-**Diffusion Model** — Studying diffusion-based generative models and learned priors for image restoration, super-resolution, inverse problems, representation learning, and multimodal generation.  
+**AIops**  
 
 ---
 
 ## 🎯 Career Interests
 
-**LLM / Agent Application Development Engineer** — Building production-oriented LLM applications, RAG systems, intelligent agents, tool-calling workflows, knowledge retrieval pipelines, and enterprise AI application platforms.  
-
-**LLM Post-Training Algorithm Engineer** — Working on SFT, PEFT, preference optimization, RLHF/RLAIF, reinforcement learning, reasoning capability enhancement, domain adaptation, evaluation, and post-training infrastructure for large language models.  
-
-**Backend Development Engineer** — Developing scalable backend services with Java and Spring Boot, including RESTful APIs, databases, caching, distributed service components, and backend infrastructure for AI applications.  
+**SRE/AI infra Ops**
+**音视频开发工程师**
